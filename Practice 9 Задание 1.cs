@@ -34,8 +34,9 @@ class Person
 
     {
 
-        Name = name;
         Age = age;
+        Name = name
+        
 
     }
 
@@ -59,5 +60,6 @@ class Program
         Console.WriteLine();
 
     }
+
 
 }
